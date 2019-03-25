@@ -1,0 +1,226 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/5odSqwyP6q599Dvwj-p47eTI_Wk\"",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 56552,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8TwHRggsca_IAX3ilwZ9pprJ4po\"",
+            "id": "VVVYSUpncW5JSTJaT0lOU1dOT0dGVGhBLjhDTjRaTGtzaTFR",
+            "snippet": {
+                "publishedAt": "2019-03-19T18:17:04.000Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Rep. Jordan on departures of prosecutors from Mueller's team",
+                "description": "The special counsel's office says Zainab Ahmad is done with her work on the investigation concerning alleged cooperation between the Trump campaign and Russia; reaction from Ohio Congressman Jim Jordan, ranking member of the House Oversight Committee.\n \nFOX News operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Radio, FOX News Headlines 24/7, FOXNews.com and the direct-to-consumer streaming service, FOX Nation. FOX News also produces FOX News Sunday on FOX Broadcasting Company and FOX News Edge. A top five-cable network, FNC has been the most watched news channel in the country for 17 consecutive years. According to a 2018 Research Intelligencer study by Brand Keys, FOX News ranks as the second most trusted television brand in the country. Additionally, a Suffolk University/USA Today survey states Fox News is the most trusted source for television news or commentary in the country, while a 2017 Gallup/Knight Foundation survey found that among Americans who could name an objective news source, FOX News is the top-cited outlet. FNC is available in nearly 90 million homes and dominates the cable news landscape while routinely notching the top ten programs in the genre.\n\nSubscribe to Fox News!  https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity:  http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8CN4ZLksi1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8CN4ZLksi1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8CN4ZLksi1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8CN4ZLksi1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8CN4ZLksi1Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fox News",
+                "playlistId": "UUXIJgqnII2ZOINSWNOGFThA",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8CN4ZLksi1Q"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pW3HbLHZP1iF9Nt5_FrLFoCm4hs\"",
+            "id": "VVVYSUpncW5JSTJaT0lOU1dOT0dGVGhBLnpKOVlRUkhXV1Br",
+            "snippet": {
+                "publishedAt": "2019-03-19T16:54:53.000Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Bill Bennett: There's a reason for the Electoral College",
+                "description": "Former Education Secretary Bill Bennett says he's sticking with the founders over the wishes of Sen. Elizabeth Warren.\n\nFOX News operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Radio, FOX News Headlines 24/7, FOXNews.com and the direct-to-consumer streaming service, FOX Nation. FOX News also produces FOX News Sunday on FOX Broadcasting Company and FOX News Edge. A top five-cable network, FNC has been the most watched news channel in the country for 17 consecutive years. According to a 2018 Research Intelligencer study by Brand Keys, FOX News ranks as the second most trusted television brand in the country. Additionally, a Suffolk University/USA Today survey states Fox News is the most trusted source for television news or commentary in the country, while a 2017 Gallup/Knight Foundation survey found that among Americans who could name an objective news source, FOX News is the top-cited outlet. FNC is available in nearly 90 million homes and dominates the cable news landscape while routinely notching the top ten programs in the genre.\n \nSubscribe to Fox News!  https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity:  http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n \nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zJ9YQRHWWPk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zJ9YQRHWWPk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zJ9YQRHWWPk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zJ9YQRHWWPk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zJ9YQRHWWPk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fox News",
+                "playlistId": "UUXIJgqnII2ZOINSWNOGFThA",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zJ9YQRHWWPk"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JRPw5BhgOlU9f1fe7azEhPb5prA\"",
+            "id": "VVVYSUpncW5JSTJaT0lOU1dOT0dGVGhBLmsxZnpITnplVVBn",
+            "snippet": {
+                "publishedAt": "2019-03-19T15:38:04.000Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "New details emerge from Cohen's search warrant documents",
+                "description": "Special counsel Robert Mueller obtained a search warrant for Michael Cohen's email accounts much earlier than previously reported; chief intelligence correspondent Catherine Herridge reports.\n \nFOX News operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Radio, FOX News Headlines 24/7, FOXNews.com and the direct-to-consumer streaming service, FOX Nation. FOX News also produces FOX News Sunday on FOX Broadcasting Company and FOX News Edge. A top five-cable network, FNC has been the most watched news channel in the country for 17 consecutive years. According to a 2018 Research Intelligencer study by Brand Keys, FOX News ranks as the second most trusted television brand in the country. Additionally, a Suffolk University/USA Today survey states Fox News is the most trusted source for television news or commentary in the country, while a 2017 Gallup/Knight Foundation survey found that among Americans who could name an objective news source, FOX News is the top-cited outlet. FNC is available in nearly 90 million homes and dominates the cable news landscape while routinely notching the top ten programs in the genre.\n\nSubscribe to Fox News!  https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity:  http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k1fzHNzeUPg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k1fzHNzeUPg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k1fzHNzeUPg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k1fzHNzeUPg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k1fzHNzeUPg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fox News",
+                "playlistId": "UUXIJgqnII2ZOINSWNOGFThA",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k1fzHNzeUPg"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2TXXsj0rPCdsAaZOUFnsK74Xo7g\"",
+            "id": "VVVYSUpncW5JSTJaT0lOU1dOT0dGVGhBLmk2dmlmRy05ZTZV",
+            "snippet": {
+                "publishedAt": "2019-03-19T16:07:10.000Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Trump welcomes the Brazilian president to the White House",
+                "description": "President Trump participates in the arrival of the President of Brazil Jair Bolsonaro.\n\nFOX News Channel (FNC) is a 24-hour all-encompassing news service dedicated to delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most watched television news channel for more than 16 years and according to a Suffolk University/USA Today poll, is the most trusted television news source in the country. Owned by 21st Century Fox, FNC is available in more than 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.\n \nSubscribe to Fox News! https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n \nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n \nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/ \nSubscribe to Fox News!  https://www.youtube.com//FoxNewsChannel\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i6vifG-9e6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i6vifG-9e6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i6vifG-9e6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "playlistId": "UUXIJgqnII2ZOINSWNOGFThA",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "i6vifG-9e6U"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/sApMx2UVjx8nW9sSzCbm1uAddE8\"",
+            "id": "VVVYSUpncW5JSTJaT0lOU1dOT0dGVGhBLnA3LUpiaEZtWFgw",
+            "snippet": {
+                "publishedAt": "2019-03-19T14:07:40.000Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "US-backed forces fight for last ISIS-held territory in Syria",
+                "description": "Fox News' Benjamin Hall reports from alongside the fighters in Baghouz, Syria.\n \nFOX News operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Radio, FOX News Headlines 24/7, FOXNews.com and the direct-to-consumer streaming service, FOX Nation. FOX News also produces FOX News Sunday on FOX Broadcasting Company and FOX News Edge. A top five-cable network, FNC has been the most watched news channel in the country for 17 consecutive years. According to a 2018 Research Intelligencer study by Brand Keys, FOX News ranks as the second most trusted television brand in the country. Additionally, a Suffolk University/USA Today survey states Fox News is the most trusted source for television news or commentary in the country, while a 2017 Gallup/Knight Foundation survey found that among Americans who could name an objective news source, FOX News is the top-cited outlet. FNC is available in nearly 90 million homes and dominates the cable news landscape while routinely notching the top ten programs in the genre.\n\nSubscribe to Fox News!  https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nWatch full episodes of your favorite shows\nThe Five: http://video.foxnews.com/playlist/longform-the-five/\nSpecial Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/\nThe Story with Martha Maccallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/\nTucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/\nHannity:  http://video.foxnews.com/playlist/longform-hannity/\nThe Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/\nFox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p7-JbhFmXX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p7-JbhFmXX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p7-JbhFmXX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p7-JbhFmXX0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p7-JbhFmXX0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fox News",
+                "playlistId": "UUXIJgqnII2ZOINSWNOGFThA",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p7-JbhFmXX0"
+                }
+            }
+        }
+    ]
+}
